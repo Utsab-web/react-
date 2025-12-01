@@ -1,5 +1,5 @@
 export default function toast() {
   return (
-    <div>toast</div>
+    <div className="(w-98 bg-green-100 h-20 text-3xl )" >toast</div>
   )
 }
